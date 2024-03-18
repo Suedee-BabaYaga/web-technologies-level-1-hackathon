@@ -1,40 +1,67 @@
-# web-technologies-level-1-hackathon
+# PLP Academy
 
-This event is designed to test your skills in HTML elements, including HTML structure, paragraphs, links, images, forms, and CSS. 
-Whether you're a total beginner or looking to brush up on your skills, this hackathon will provide you with an opportunity to practice and showcase your abilities.
+PLP Academy is a web application that allows learners to explore available courses, register for consultations with lecturers, and enroll in subjects of their choice.
 
-Activities
-# 1. HTML Structure
+## Features
 
-Objective: Create the basic structure of an HTML document.
+- Homepage with a brief introduction to the academy
+- Course offerings section
+- Consultation registration form
+- About section
 
-# 2. Paragraphs & Headings
+## Technologies Used
 
-Objective: Understand how to structure and format text using paragraph tags.
+- HTML
+- CSS
 
-# 3. Links
+## Getting Started
 
-Objective: Learn how to create hyperlinks to navigate between pages.
+To get a local copy of the project up and running, follow these steps:
 
-# 4. Images
+1. Clone the repository;
 
-Objective: Incorporate images into your web page.
+2. Navigate to the project directory;
 
-# 5. Forms
+3. Open the `index.html` file in your preferred web browser.
 
-Objective: Understand how to create forms for user input.
+## File Structure
 
-# 6. CSS Styling
+```
+plp-academy/
+├── index.html
+├── styles.css
+├── background.jpg
+└── README.md
+```
 
-Objective: Apply styles to your HTML elements using CSS.
+- `index.html`: The main HTML file containing the structure and content of the web application.
+- `styles.css`: The CSS file for styling the web application.
+- `background.jpg`: The background image used on the website (replace with your desired image).
+- `README.md`: This file, providing an overview and instructions for the project.
 
-# Submission Guidelines
+## Customization
 
-Fork this repository and clone it to your local machine.
-Create a new branch with your GitHub username (git checkout -b username).
-Complete each task within the provided HTML file (index.html) and CSS file (styles.css).
-Commit your changes and push them to your forked repository.
-Submit a pull request to the main repository for review.
+Feel free to customize the web application according to your needs. Here are some suggested areas for further development:
+
+- Update the content and images to match your academy's branding and offerings.
+- Enhance the styling and layout using CSS for a more visually appealing design.
+- Implement form validation and submission handling using JavaScript.
+- Integrate a backend system to store and manage user registrations and consultations.
+- Add additional features and functionality as needed.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- PLP Academy for providing the technical guidance and assistance in developing this web application.
+
+Feel free to modify and expand this README file as needed to provide more detailed information about your project, such as installation instructions, usage examples, and any additional sections you deem necessary.
 
 
 Happy hacking! 🚀
